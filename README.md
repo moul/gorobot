@@ -1,6 +1,8 @@
 GoRobot
 ===
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/gorobot.svg)](https://www.guardrails.io)
+
 ## an IRC bot written in Go
 
 GoRobot is an IRC robot aiming at being highly modular without any
